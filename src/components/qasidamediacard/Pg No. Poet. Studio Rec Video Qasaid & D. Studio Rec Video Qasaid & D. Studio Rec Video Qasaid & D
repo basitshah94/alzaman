@@ -1,0 +1,24 @@
+Pg No.	Poet.	Studio Rec		Video Qasaid & Dua			Qasaid from Audio Majalis				Jshan	Room Recordings			Tarzain		Date	Language	Sub Category	Main Category	Title Qaseda Pak	S.No.	
+1006	Sarkar	2010		Sarkar	Sarkar	Sarkar									2008		2/3/1994	سرائیکی	بارگاہِ رب العزت	استغاثہ پاک	یا رب ایہا  دعا ہے مونجھے یکے دلاں دی	839	
+
+qaseeda:{
+    "Pg No": 1006,
+    "Written":'http://jamanshah.com/crj/01-Audio-Qasaid-&-Duain/Kulyaat-e-Jaffir-uz-Zaman-1/Kulyaat-e-Jaffir-uz-Zaman-1_001006.jpg'
+    "Poet":'Sarkar',
+    "Studio Rec":2010,
+    "Video Qasaid & Dua":[
+        'https://youtu.be/BMzxiNZB6dM?list=PLhB0kyTmzAf9r9QYc7gaHE1PwJ1QOWLbY',
+        'https://youtu.be/lEBKJvrMsfE?list=PLhB0kyTmzAf9r9QYc7gaHE1PwJ1QOWLbY',
+        'https://youtu.be/oEjoan_-6Mw?list=PLhB0kyTmzAf9r9QYc7gaHE1PwJ1QOWLbY'],
+    "Qasaid from Audio Majalis":[],
+    "Jshan":'',
+    "Room Recordings":'',
+    "Tarzain":[
+        'http://jamanshah.com/crj/01-Audio-Qasaid-&-Duain/Istagasa-Pak/New-Recording-Istgasy-Pak/Slow-Istagasy/Ya%20Rub%20Eyah%20dua%20hy%20Mujnhy%20yaky%20delan%20de-S.mp3'
+        ],
+    "Date":'2/3/1994',
+    "Language":'سرائیکی',
+    "Sub Category":'بارگاہِ رب العزت',
+    "Main Category":'استغاثہ پاک',
+    "Title Qaseda Pak":'یا رب ایہا  دعا ہے مونجھے یکے دلاں دی'
+   }

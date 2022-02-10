@@ -1,0 +1,6 @@
+#audio-container > div{
+    padding-bottom: 2vh;
+}
+#audio-container > div > div{
+    margin-top: 0.5vh;
+}

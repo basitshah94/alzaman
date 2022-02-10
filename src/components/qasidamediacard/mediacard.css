@@ -1,0 +1,108 @@
+.accordian {
+    padding:1em;
+    margin: 0.5rem;
+
+  }
+.accordian .meta {
+  text-align: start;
+  display:block;
+  font-size: 10vw;
+}
+.accordian .radioGroup{
+  display:flex;
+  padding-left: 0;
+  margin-left: 0;
+}
+#root > div > div > div.MuiGrid-root > div{
+  padding: 0
+}
+#panel1a-header > div.MuiAccordionSummary-content > div{
+  justify-content: space-evenly;
+  text-align:right
+}
+#panel1a-header-data > div.MuiAccordionSummary-content > div{
+  justify-content: space-evenly;
+  text-align:right
+}
+/* #root > div > div */
+#root > div > div {
+  background-color: #F9F8FF
+}
+#panel1a-content > div > div > div.MuiGrid-root.meta.MuiGrid-item.MuiGrid-grid-xs-6.MuiGrid-grid-sm-6 > div > div.MuiContainer-root.comboBox.MuiContainer-maxWidthLg{
+  display: flow-root;
+  margin: 0 0 0 9em;
+  width: 48em;
+  padding:0 0 0 5.5em;
+}
+/* #panel1a-content > div > div > div.MuiGrid-root.meta.MuiGrid-item.MuiGrid-grid-xs-6.MuiGrid-grid-sm-6 > div > div.MuiContainer-root.comboBox.MuiContainer-maxWidthLg{
+  padding:0 0 0 5.5em;
+  margin: 0;
+  width: 40em;
+}  */
+#panel1a-content > div > div > div:nth-child(2){
+  margin: 0;
+}
+#panel1a-content > div{
+  padding: 0 1em 2em;
+}
+/* .accordian .logo{
+  width: 20em;
+  height: 20em;
+  padding-left: 10em
+} */
+#panel1a-content > div > div > div.MuiGrid-root.meta.MuiGrid-item.MuiGrid-grid-xs-6.MuiGrid-grid-sm-6 > div > div.MuiContainer-root.radioGroup.MuiContainer-maxWidthLg{
+  justify-content: flex-end;
+}
+#panel1a-header > div.MuiAccordionSummary-content > div > div > a{
+color:black
+}
+#panel1a-content > div > div{
+  justify-content: end;
+}
+#mediaPlayer > div > div > div.media-player{
+  margin: 0 25em 0 0;
+}
+
+@import url('../../fonts/notonakasharabic.css');
+/* @import url(//fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css); */
+
+#root{
+  font-family: 'Noto Naskh Arabic', serif;
+  /* font-family: 'Noto Nastaliq Urdu Draft', serif; */
+  font-size: 1.5em;
+  direction: ltr;
+}
+
+#panel1a-header-data > div.MuiButtonBase-root.MuiIconButton-root.MuiAccordionSummary-expandIcon.MuiIconButton-edgeEnd > span.MuiIconButton-label > svg{
+  background-color: #36FF00;
+}
+#poetry-results .accordian{
+  font-weight: bold;
+  position: inherit;
+  display: flow-root;
+}
+
+#panel1a-header-data > div.MuiAccordionSummary-content > div > div > a {
+  color: black;
+}
+#book-details{
+  text-align: right;
+  display: flow-root;
+  -webkit-user-select: none; /* Safari */        
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+#book-details:hover{
+  cursor: pointer;
+}
+#viewerBackdrop > div > div.header_j7zky3 > button.MuiButtonBase-root.MuiButton-root.MuiButton-text{
+  background-color:  #F6FBFF;
+  margin-bottom: 0.5vh;
+}
+.text-center{
+  text-align: center;
+}
+#widget4{
+  width:26vw
+}

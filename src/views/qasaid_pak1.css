@@ -1,0 +1,103 @@
+#qasaid-header{
+    padding:0 0.2em 0 0.2em;
+    margin: 5em 0.4em 0 0.4em;
+    border-radius: 0;
+    font-size: 18px;
+    height: 3em;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    width: -webkit-fill-available;
+    z-index: 5;
+}
+#qasaid-header .row{
+    justify-content: space-between;
+}
+#qasaid-header .row .col{
+    padding-left: 1em; 
+    outline:solid 1px;
+}
+
+#qasaid-header > div{
+    text-align: center;
+    padding: 1.56em 0 0 0;
+    cursor:pointer;
+    
+}
+
+#poetry-results{
+    margin-top: 6.9em;
+}
+#hidden-true{
+    direction: rtl;
+    z-index: 101;
+    position: fixed;
+    background: #ffff;
+    align-items: center;
+    border: 1px solid lightgray;
+    height: 4vh;
+    padding: 0px 20px;
+    border-radius: 999px;
+    width: 30vw;
+    margin: 0 10em;
+    margin-top: 1.6em;
+    max-width: 560px;
+}
+#root > div > div > form > div.search__input > input::placeholder{
+    color: #CECECE;
+}
+#qasaid-header > div > div> img{
+    margin-left: 7px;
+    margin-top: 5px;
+}
+#root > div > div > div:nth-child(1) > form > div{
+    background-color: #fff;
+    position: fixed;
+    z-index: 6;
+    top: 0;
+}
+#root > div > div > div:nth-child(1) > form > div > div:nth-child(1) > a > img{
+    width: -webkit-fill-available;
+}
+#root > div > div > div:nth-child(1) > form > div > div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-3.MuiGrid-grid-sm-3 > div > div.MuiGrid-root.search__input.MuiGrid-item.MuiGrid-grid-xs-9.MuiGrid-grid-sm-9{
+    margin-top: 0.3em;
+}
+#root > div > div > div:nth-child(3){
+    z-index: 4;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    background: #fff;
+    width: -webkit-fill-available;
+    font-weight: bold;
+}
+#qaseeda #poetry-results {
+    position: inherit;
+    display: flow-root;
+}
+/* ----------------------------------- */
+#qaseeda > div:nth-child(4) > nav > ul{
+  justify-content: center;
+  margin-top: 0.5vh;
+}
+  #qaseeda > div:nth-child(4){
+    position: fixed;
+    bottom: 0;
+    z-index: 5;
+    width: -webkit-fill-available;
+    background: #fff;
+    border-top: 1px solid;
+    height: 5vh;
+  }
+  #qaseeda > div:nth-child(1) > form > div > div:nth-child(4){
+    font-size: large;
+  }
+  /* .MuiPaginationItem-textPrimary.Mui-selected{
+
+  } */
+  #mediaPlayer > div > div > audio{
+    margin-top: 1vh;
+    width: 30vw;
+    margin-right: 20vw;
+  }
+  /* #panel1a-header-data >  */

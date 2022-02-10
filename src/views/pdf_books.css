@@ -1,0 +1,4 @@
+#pdf-container > div >img{
+    padding: 1vh 0 0 0;
+    cursor: pointer;
+}

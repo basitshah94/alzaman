@@ -1,0 +1,65 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.home__header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 30px;
+  align-items: center;
+}
+
+.home__header a {
+  margin-right: 20px;
+  text-decoration: inherit;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 15px;
+}
+
+.home__header a:hover {
+  text-decoration: underline;
+}
+
+.home__headerRight {
+  display: flex;
+  align-items: center;
+  min-width: 13vw;
+  justify-content: space-between;
+}
+
+.home__headerRight > .MuiSvgIcon-root {
+  margin-right: 20px;
+}
+
+.home__body .logo {
+  width: auto;
+  object-fit: contain;
+  color: blue;
+  /* font-weight: bold; */
+}
+
+.home__body {
+  flex: 1;
+  text-align: center;
+  display: flex;
+  margin-top: 1%;
+  flex-direction: column;
+}
+
+#root > div > div > div > div.MuiGrid-root.MuiGrid-container.MuiGrid-grid-xs-12.MuiGrid-grid-sm-12 > div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-1.MuiGrid-grid-sm-1 > button{
+  height: 4vh;
+  padding:0;
+  width: -webkit-fill-available;
+}
+#root > div > div > div > div.MuiGrid-root.MuiGrid-container.MuiGrid-grid-xs-12.MuiGrid-grid-sm-12{
+  padding: 0 1vw;
+  
+}
+#root > div > div > div > div.MuiGrid-root.MuiGrid-container.MuiGrid-grid-xs-12.MuiGrid-grid-sm-12 > div{
+  padding: 0 0.5vw;
+}
+#root > div > div > div > div > div.MuiGrid-root.MuiGrid-item.MuiGrid-grid-xs-12.MuiGrid-grid-sm-12{
+  margin-top: 26vh;
+}
